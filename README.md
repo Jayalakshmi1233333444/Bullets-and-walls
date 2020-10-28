@@ -1,2 +1,2 @@
-# Bullets-and-walls
-This a very useful game to check the walls capacity to to withstand bullets
+# p5.play-boilerplate
+Boiler plate for p5.play
